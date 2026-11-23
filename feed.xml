@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>情感夜话</title>
+<link>https://kuangyun723-star.github.io/emotion-podcast-dist/</link>
+<description>原创情感播客，每晚一集</description>
+<itunes:author>情感夜话</itunes:author>
+<itunes:image href="https://kuangyun723-star.github.io/emotion-podcast-dist/covers/2026-11-23.svg"/>
+<item>
+<title>亲密关系沟通困境，越想靠近越受伤</title>
+<description>你有没有过这样的时刻：白天还好好的，晚上因为一句话，两个人突然就僵住了。一集关于亲密关系里沉默与沟通的原创情感节目。</description>
+<enclosure url="https://kuangyun723-star.github.io/emotion-podcast-dist/episode-2026-11-23.mp3" length="4944918" type="audio/mpeg"/>
+<itunes:image href="https://kuangyun723-star.github.io/emotion-podcast-dist/covers/2026-11-23.svg"/>
+<guid>2026-11-23</guid>
+<pubDate>Mon, 23 Nov 2026 10:00:00 +0800</pubDate>
+</item>
+</channel>
+</rss>
