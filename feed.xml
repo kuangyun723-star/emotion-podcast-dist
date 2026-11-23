@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
-<title>情感夜话</title>
-<link>https://kuangyun723-star.github.io/emotion-podcast-dist/</link>
-<description>原创情感播客，每晚一集</description>
-<itunes:author>情感夜话</itunes:author>
-<itunes:image href="https://kuangyun723-star.github.io/emotion-podcast-dist/covers/2026-11-23.svg"/>
+<title>情感夜话</title><link>https://kuangyun723-star.github.io/emotion-podcast-dist</link><description>原创情感播客</description>
+<itunes:author>情感夜话</itunes:author><itunes:image href="https://kuangyun723-star.github.io/emotion-podcast-dist/covers/2026-11-23.svg"/>
 <item>
-<title>亲密关系沟通困境，越想靠近越受伤</title>
-<description>你有没有过这样的时刻：白天还好好的，晚上因为一句话，两个人突然就僵住了。一集关于亲密关系里沉默与沟通的原创情感节目。</description>
-<enclosure url="https://kuangyun723-star.github.io/emotion-podcast-dist/episode-2026-11-23.mp3" length="4944918" type="audio/mpeg"/>
-<itunes:image href="https://kuangyun723-star.github.io/emotion-podcast-dist/covers/2026-11-23.svg"/>
-<guid>2026-11-23</guid>
+<title>孤独和自我和解，越想靠近越受伤</title><description>你有没有过这样的时刻：一天里说了很多话，回了工作消息，在群里配合了表情，也礼貌地接住了别人的情绪。可等你回到家，关上门，鞋还没换，忽然一句话都不想说了。手机屏幕亮着，消息还在跳，你却像隔着一层玻璃看它们。不是没有人联系你…</description>
+<enclosure url="https://kuangyun723-star.github.io/emotion-podcast-dist/episode-2026-11-23.mp3" length="4811171" type="audio/mpeg"/>
+<itunes:image href="https://kuangyun723-star.github.io/emotion-podcast-dist/covers/2026-11-23.svg"/><guid>2026-11-23</guid>
 <pubDate>Mon, 23 Nov 2026 10:00:00 +0800</pubDate>
-</item>
-</channel>
-</rss>
+</item></channel></rss>
